@@ -1,0 +1,11 @@
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\bin\Debug\BudgetThing.exe.config
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\bin\Debug\BudgetThing.exe
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\bin\Debug\BudgetThing.pdb
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\obj\Debug\BudgetThing.csprojResolveAssemblyReference.cache
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\obj\Debug\BudgetThing.Form1.resources
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\obj\Debug\BudgetThing.frmAddBudgetItem.resources
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\obj\Debug\BudgetThing.Properties.Resources.resources
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\obj\Debug\BudgetThing.csproj.GenerateResource.Cache
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\obj\Debug\BudgetThing.exe
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\obj\Debug\BudgetThing.pdb
+C:\Users\Rayan\Career Stuff\Projects\BudgetThing\BudgetThing\obj\Debug\BudgetThing.EditGroup.resources
